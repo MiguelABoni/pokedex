@@ -4,7 +4,7 @@ Build a Pokedex with the help of Pokemon API, where the first generation of poke
 
 # Made by
 
-[Miguel Bedoya](https://github.com/MiguelABoni) 💎
+💎 [Miguel Bedoya](https://github.com/MiguelABoni) 💎
 
 # Getting Started with Create React App
 
