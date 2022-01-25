@@ -1,3 +1,9 @@
+# POKEDEX 🐱‍👤´
+
+Build a Pokedex with the help of Pokemon API, where the first generation of pokemons will be displayed in a list with their information and main details.
+
+# Made by [Miguel Bedoya](https://github.com/MiguelABoni) 💎
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
