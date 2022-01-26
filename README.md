@@ -1,6 +1,6 @@
 # POKEDEX 🐱‍👤
 
-Build a Pokedex with the help of Pokemon API, where the first generation of pokemons will be displayed in a list with their information and main details.
+Build a Pokedex with the help of [Pokemon API](https://pokeapi.co/), where the first generation of pokemons will be displayed in a list with their information and main details.
 
 ## STEPS
 
