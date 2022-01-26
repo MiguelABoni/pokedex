@@ -2,7 +2,7 @@
 
 Build a Pokedex with the help of Pokemon API, where the first generation of pokemons will be displayed in a list with their information and main details.
 
-## COMANDOS
+## COMANDS
 ```bash
 # Ejecutar servidor de desarrollo
 npm run dev
@@ -11,6 +11,12 @@ npm run build
 # Ejecutar proyecto compilado
 npm run start
 ```
+
+## STEPS
+
+- Implement pagination on the list (show 10 items per page).
+- Display a character details when click on a character item.
+- Error handling
 
 # Made by
 
