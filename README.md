@@ -4,8 +4,8 @@ Build a Pokedex with the help of Pokemon API, where the first generation of poke
 
 ## STEPS
 
-- Implement pagination on the list (show 10 items per page).
-- Display a character details when click on a character item.
+- Implement pagination on the list (show 10 items per page)
+- Display a character details when click on a character item
 - Error handling
 
 ## COMANDS
