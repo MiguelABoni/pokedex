@@ -2,6 +2,18 @@
 
 Build a Pokedex with the help of Pokemon API, where the first generation of pokemons will be displayed in a list with their information and main details.
 
+## Comandos
+```bash
+# Ejecutar servidor de desarrollo
+npm run dev
+# Compilar para producción
+npm run build
+# Ejecutar proyecto compilado
+npm run start
+# Ejecutar eslint
+npm run lint
+```
+
 # Made by
 
 💎 [Miguel Bedoya](https://github.com/MiguelABoni) 💎
