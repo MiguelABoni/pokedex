@@ -10,8 +10,6 @@ npm run dev
 npm run build
 # Ejecutar proyecto compilado
 npm run start
-# Ejecutar eslint
-npm run lint
 ```
 
 # Made by
