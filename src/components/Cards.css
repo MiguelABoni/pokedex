@@ -29,6 +29,10 @@
     z-index: 1;
 }
 
+.cards__pokemonCard details summary::-webkit-details-marker {
+    display: none;
+}
+
 .cards__pokemonCard details summary .pokemonCard__pokeball {
     width: 50px;
 }
