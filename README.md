@@ -1,6 +1,22 @@
 # POKEDEX 🐱‍👤
 
-Build a Pokedex with the help of Pokemon API, where the first generation of pokemons will be displayed in a list with their information and main details.
+Build a Pokedex with the help of [Pokemon API](https://pokeapi.co/), where the first generation of pokemons will be displayed in a list with their information and main details.
+
+## STEPS
+
+- Implement pagination on the list (show 10 items per page)
+- Display a character details when click on a character item
+- Error handling
+
+## COMANDS
+```bash
+# Ejecutar servidor de desarrollo
+npm run dev
+# Compilar para producción
+npm run build
+# Ejecutar proyecto compilado
+npm run start
+```
 
 # Made by
 
