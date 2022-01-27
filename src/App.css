@@ -1,10 +1,86 @@
 .background {
     background-image: url('./assets/img/background.gif');
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-position: center;
+    background-attachment: fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+}
+
+.pokeball__loadingAnimation {
+    display: block;
+    width: 150px;
+    margin: auto;
+    animation: 1.5s rotate linear infinite;
+}
+
+.main__logo {
+    display: block;
+    width: 300px;
+    margin: auto;
+}
+
+.main__title {
+    max-width: 400px;
+    margin: 2rem auto;
+    padding: .5rem;
+    color: white;
+    background-color: rgba(60,213,0,0.5);
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+}
+
+.main__buttons {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 1rem;
+}
+
+.main__buttons button {
+    margin: 10px;
+    padding: 15px 45px;
+    color: white;
+    background-size: 200% auto;
+    border: 0;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.main__buttons button:first-child {
+    background-image: linear-gradient(to right, rgba(170, 7, 107, 1) 0%, rgba(97, 4, 95, 1)  50%, rgba(170, 7, 107, 1)  100%)
+}
+
+.main__buttons button:last-child {
+    background-image: linear-gradient(to right, rgba(31, 162, 255, 1) 0%, rgba(18, 216, 250, 1)  50%, rgba(31, 162, 255, 1)  100%);
+}
+
+.main__buttons button:hover  {
+    color: #fff;
+    background-position: right center;
+    text-decoration: none;
+}
+
+.main__buttons button:disabled {
+    cursor: no-drop;
+    opacity: 0.5;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
 }
