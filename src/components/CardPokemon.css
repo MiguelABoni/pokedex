@@ -47,46 +47,34 @@ details[open] .cards__pokemonCard__details .details__listType__tag {
     border-radius: 15%;
 }
 
-.normal {
-    background-color: #A8A090;
-}
-    
 .fighting {
     background-color: #A05038;
 }
-    
+
 .flying {
     background-color: #98A8F0;
 }
-    
+
 .poison {
     background-color: #B058A0;
 }
-    
-.ground {
-    background-color: #E9D6A4;
-}
-    
+
 .rock {
     background-color: #B8A058;
 }
-    
+
 .bug {
     background-color: #A8B820;
 }
-    
+
 .ghost {
     background-color: #6060B0;
 }
-    
-.steel {
-    background-color: #A8A8C0;
-}
-    
+
 .grass {
     background-color: #147b3d;
 }
-    
+
 .psychic {
     background-color: #F870A0;
 }
@@ -94,7 +82,7 @@ details[open] .cards__pokemonCard__details .details__listType__tag {
 .dragon {
     background-color: #7860E0;
 }
-    
+
 .dark {
     background-color: #040706;
 }
@@ -120,11 +108,26 @@ details[open] .cards__pokemonCard__details .details__listType__tag {
     background-color: #3899F8;
 }
 
+details[open] .cards__pokemonCard__details .normal {
+    color: black;
+    background-color: #A8A090;
+}
+
+details[open] .cards__pokemonCard__details .ground {
+    color: black;
+    background-color: #E9D6A4;
+}
+
+details[open] .cards__pokemonCard__details .steel {
+    color: black;
+    background-color: #A8A8C0;
+}
+
 details[open] .cards__pokemonCard__details .ice {
     color: black;
     background-color: #58C8E0;
 }
-    
+
 details[open] .cards__pokemonCard__details .electric {
     color: black;
     background-color: #F8D030;
